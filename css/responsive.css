@@ -1,0 +1,302 @@
+@media screen and (min-width: 1456px) {
+    .notification-list .btn-green {width: 117px;height: 48px;}
+    .search-btn .btn-white-border {width: 142px;height: 32px;padding: 7px 10px;}
+    .search-btn .btn-green-border {width: 111px;height: 32px;}
+    div#leftsideBlock {max-width: 44%;padding-right: 35px;}
+    div#rightsideblock {max-width: 52%;padding-left: 37px;}
+}
+@media screen and (min-width: 1800px) {
+    .content-page {padding: 89px 110px 0px 86px;}
+    .navbar-custom {padding: 0 100px 0 37px;}
+    .navbar-custom .topbar-menu {padding-right: 20px;}
+    .tasks-container {padding: 17px 39px 5px 43px;}
+    .task-details {padding-right: 20px;}
+    .task-details-items {margin-left: 20px;margin-right: 20px;}
+    .task-details-items:not(:last-child)::after {right: -20px;}
+    .task-created .follower-round, .task-last-update .follower-round {margin-left: 12px;}
+    .task-details-right .btn-green {height: 40px;}
+    .task-details-right .btn-green img {margin-right: 12px;}
+    .task-last-update.btn2,.task-date.btn2 {margin-right: 19px;}
+    .task-created.btn2 {margin-right: 11px;}
+    .task-follower-newprofile, .task-followers-content {margin-left: 10px;}
+    .contingent-content {margin-left: 23px;}
+    .edit-link {margin-left: 12px;}
+    .custom-checkbox {margin: 0 30px;}
+    .follower-round {margin-right: -3px;}
+    .width-212px {width: 212px;}
+    .width-210px {width: 210px;}
+    .width-199px {width: 199px;}
+     /* .assignee-content {width: 190px;} */
+}
+@media screen and (max-width: 1550px) {
+    .content-page {padding: 89px 12px 65px 12px;}
+}
+@media screen and (max-width: 1500px) {
+    .task-down-arrow,.tasks-name-id .h4 {margin-left: 5px;}
+    .task-tags .btn2, .task-date.btn2, .task-created.btn2, .task-last-update.btn2 {margin-right: 5px;}
+    .width-320px {width: 300px;}
+}
+@media screen and (max-width: 1456px) {
+    .content-page {padding: 89px 8px 65px 8px;}
+    .task-follower-newprofile, .task-followers-content {margin-left: 5px;}
+    .task-follower-newprofile img,.tasks-name-id img {width: 20px;}
+    .task-follower-newprofile img.task-down-arrow,.sub-task-profile .task-follower-newprofile img {width: auto;}
+    .task-dropdown .follower-round {width: 20px;height: 20px;margin-right: -2px;}
+    .post-msg {width: 330px;}
+    .width-320px {width: 270px;}
+    .assignee-content {width: auto;padding: 0 3px;}
+    
+}
+@media screen and (max-width: 1446px) {
+    .tasks-container {padding: 20px 12px;}
+}
+@media screen and (max-width: 1410px) {
+    .assignee-title {font-size: 13px;font-weight: 600;}
+    .task-details-items {margin-left: 12px;margin-right: 12px;}
+    .task-details-items:not(:last-child)::after {right: -12px;}
+    .follower-round {font-size: 10px;}
+}
+@media screen and (max-width: 1393px) {
+    .task-details-items {margin-left: 10px;margin-right: 10px;}
+    .task-details-items:not(:last-child)::after {right: -10px;}
+}
+@media screen and (max-width: 1381px) {
+    .date-picker-assignee label.btn2 {font-size: 11px;}
+    .task-details-right .btn-green {width: auto;padding: 8px 10px;}
+
+}
+@media screen and (max-width: 1369.99px) {
+    .task-details {flex-direction: column;align-items: flex-start;}
+    .task-details-right {margin-top: 18px;}
+    .task-details-items {margin-left: 6px;margin-right: 6px;}
+    .task-details-items:not(:last-child)::after {right: -6px;}
+}
+@media screen and (max-width: 1356px) {
+    .width-320px {width: 220px;}
+    .account-checkbox,.account-checkbox .form-check-input {width: 15px;height: 15px;}
+    .account-details {padding: 11px 15px 9px 15px;}
+}
+@media screen and (max-width: 1308px) {
+    .assignee-title {font-size: 12px;}
+}
+@media screen and (max-width: 1277px) {
+    .account-id {margin-left: 5px;}
+    .post-msg {width: 300px;}
+    .width-320px {width: 220px;}
+    .post-content-views {height: auto;}
+    .post-link-bottom .button-gray {margin-left: 6px;}
+    .date-time {margin: 0 5px;}
+    .date-picker-assignee label {margin-left: 5px;}
+    .account-id .btn-green-border {padding: 8px 6px;height: auto;}
+    .btn-green {padding: 10px 20px;}
+    .header-search {width: 250px;}
+}
+@media screen and (max-width: 1281px) {
+    .date-picker-assignee label.btn2 {text-overflow: ellipsis;overflow: hidden;white-space: nowrap;}
+}
+@media screen and (max-width: 1245px) {
+    .account-details {padding: 11px 10px 9px 10px;}
+    .pdf-file-view {width: 130px;}
+    .post-msg {text-overflow: ellipsis;overflow: hidden;white-space: nowrap;width: 200px;}
+    .post-view-bottom {margin-top: 12px;}
+}
+@media screen and (max-width: 1232px) {
+    .crm-btn-text .btn-green {font-size: 11px;padding: 5px;margin-left: 0;}
+    .task-top-content,.task-details {flex-direction: column;align-items: flex-start;}
+    .crm-img {margin: 0 5px;}
+    .gas-indication,.company-logo {width: auto;height: auto;}
+    .assignee-title {font-size: 11px;}
+}
+@media screen and (max-width: 1232px) {
+    .assignee-content {width: 240px;}
+    .assignee-title {font-size: 15px;}
+    .post-msg {width: 390px;}
+    .crm-btn-text .btn-green {margin-left: 1px;}
+    .account-id {margin-left: 5px;}
+    .crm-img {margin: 0 5px;}
+}
+@media screen and (max-width: 1025px) {
+    .task-details-left {margin-bottom: 10px;}
+    .assignee-content {width: auto;}
+} 
+@media screen and (max-width: 996px) {
+    .leftside-menu,.side-nav .side-nav-item,.logo-top {width: 200px;}
+    .side-nav .side-nav-link,.side-nav-forth-level li a, .side-nav-second-level li a, .side-nav-third-level li a {padding: 0 20px;}
+    .logo-top .logo span.logo-lg {padding-left: 20px;}
+    .content-page {margin-left: 200px;}
+    .navbar-custom {left: 200px;}
+} 
+@media screen and (max-width: 992px) {
+    .content-page {padding-left: 12px;}
+    .task-details-left {width: 100%;}
+    .task-details-left .tags-list .dropdown.task-dropdown {width: 110px;}
+    /* .tags-list .follower-dropdown.dropdown-menu-animated.dropdown-menu-end[style] {right: -12px !important;} */
+    .task-details-items {width: 100%;}
+    .nav-user {padding: 17px 5px 17px 7px !important;}
+    .navbar-custom {padding: 0 10px;}
+    .notification-list .btn-green {padding: 5px 7px;}
+    .notification-icon {margin: 0 10px 0 10px;}
+    .navbar-custom .topbar-menu .nav-link {margin: 0 5px;}
+    .task-details-items {margin-bottom: 10px;width: 100%;}
+    /* .task-details-items:not(:last-child)::after {display: none;} */
+}
+/* @media (max-width: 767.98px) { */
+    @media (max-width: 880.98px) {
+        body {
+            overflow-x: hidden;
+        }
+        .leftside-menu {
+            -webkit-box-shadow: 0 0 35px 0 rgba(154, 161, 171, 0.15);
+            box-shadow: 0 0 35px 0 rgba(154, 161, 171, 0.15);
+            display: none;
+            z-index: 10 !important;
+        }
+        .sidebar-enable .leftside-menu {
+            display: block;
+        }
+        .navbar-nav.navbar-right {
+            float: right;
+        }
+        .content-page {
+            margin-left: 0 !important;
+            /* padding: 65px 10px 65px; */
+        }
+        body[data-leftbar-compact-mode="condensed"] .leftside-menu {
+            margin-left: 0;
+        }
+        .logo span.logo-lg {
+            display: block;
+        }
+        .logo span.logo-sm {
+            display: none;
+        }
+        .mb-menu {display: block;}
+        
+    }
+@media screen and (max-width: 854px) {
+    .task-details-items {width: auto;}
+    /* .sub-task-content>div {margin-bottom: 8px;} */
+    .tags-list .follower-dropdown.dropdown-menu-animated.dropdown-menu-end[style] {right: -55px !important;}
+}
+/* @media screen and (max-width: 821px) {
+    .task-details-items {margin-left: 6px;margin-right: 6px;}
+    .task-details-items:not(:last-child)::after {right: -6px;}
+} */
+@media screen and (max-width: 798px) {
+    .task-details-left .tags-list .dropdown.task-dropdown {width: auto;}
+}
+@media screen and (max-width: 767.98px) {
+    .mb-menu {display: block;}
+    .button-menu-mobile {color: #24975f;padding-right: 0;}
+    .task-dropdown .follower-round {font-size: 10px;}
+    .header-search {width: auto;height: auto;}
+    .task-follower-newprofile img, .tasks-name-id img {width: auto;}
+    /* .content-page {padding: 65px 10px 65px;} */
+    .task-details-left .task-details-list {flex-direction: column;align-items: flex-start;}
+    .task-details-items:not(:last-child)::after {display: none;}
+    .task-details-items {margin-left: 0;margin-right: 0;}
+}
+@media screen and (max-width: 653px) {
+    .search-btn {margin-left: 10px;}
+    .custom-checkbox {margin: 0 10px 0 10px;}
+    /* .task-details-left .task-details-list {flex-direction: column;align-items: flex-start;}
+    .task-details-items {margin-bottom: 10px;width: 100%;}
+    .task-details-items:not(:last-child)::after {display: none;} */
+    .task-details-right {margin-top: 0px;}
+    .contingent-content,.edit-link {margin-left: 6px;}
+}
+@media screen and (max-width: 653px) { 
+    .display-mb {display: block;margin-left: 10px;}
+    .account-title {display: none;}
+}
+@media screen and (max-width: 613px) { 
+    .search-btn {margin-left: 5px;}
+    .custom-checkbox {margin: 0 7px;}
+    .post-msg {width: 300px;}
+    .width-320px {width: 220px;}
+}
+@media screen and (max-width: 597px) {
+    .custom-checkbox {margin: 0;}
+    .btn-white-border {padding: 7px;}
+}
+@media screen and (max-width: 580px) {
+    .notification-list.dropdown {display: flex !important;}
+    .task-top-content-right>div,.task-top-content-left,.pdf-file-view {margin-bottom: 10px;}
+    .task-details-right {flex-direction: column;align-items: flex-start;}
+    .task-justify-mb {justify-content: space-between;margin-bottom: 10px;}
+    .add-account {flex-direction: column;}
+    .search-crm {margin-top: 10px;}
+    .col-xl-6.col-lg-12.col-md-12.col-sm-12.col-12 {padding: 0;}
+    .post-content-views,.post-content {height: auto;}
+    .post-bottom-part {flex-direction: column;align-items: flex-start;}
+    .post-bottom-part .switch {margin-bottom: 10px;}
+    .post-content {padding: 13px 10px 10px;}
+    .account-details {padding: 11px 12px 0px 12px;}
+    .account-details .d-flex {width: 100%;margin-top: 9px;margin-bottom: 9px;}
+    /* .sub-task-content {flex-direction: column;align-items: flex-start;} */
+    .btn-green-border {padding: 4px 6px;}
+    .styled-checkbox + label:before {margin-right: 5px;}
+    .content-page {padding-left: 0;padding-right: 0;}
+}
+@media screen and (max-width: 558px) { 
+    .task-top-content-right {flex-direction: column;align-items: flex-start;}
+    .search-mb {display: block;}
+    .search-lp {display: none;}
+    .search-icon {position: relative;left: 0;}
+    .follower-search .search-icon {position: absolute;}
+    .navbar-custom .topbar-menu li {margin: 0 10px;}
+    .navbar-custom .topbar-menu li:last-child {margin-right: 0;}
+    .btn-grays {width: 150px;}
+    .btn-group {margin-bottom: 10px;}
+}
+@media screen and (max-width: 494px) {
+    .post-details,.post-view-bottom {flex-direction: column;align-items: flex-start;}
+    .post-view-bottom {align-items: flex-start;}
+    .post-link {align-self: flex-end;}
+    /* .subject-content {padding-right: 4px;} */
+}
+@media screen and (max-width: 478.99px) {
+    .sub-task-content .sub-width {width: 70%;justify-content: space-between;}
+    .sub-status {margin-top: 5px;}
+}
+@media screen and (max-width: 455px) {
+    .navbar-custom .topbar-menu li {margin: 0 2px;}
+    .post-msg {width: 220px;}
+    .btn-grays {width: 120px;}
+    .change-status-seen {flex-direction: column;}
+}
+@media screen and (max-width: 389px) {
+    .navbar-custom .topbar-menu li {margin: 0;}
+    .task-header-title h3 {margin-left: 3px;}
+    .nav-user .account-user-avatar {width: 25px;height: 25px;}
+    .nav-user .account-user-avatar img {width: 30px;}
+    .search-mb .btn {padding: 0;}
+    .navbar-custom {padding-right: 0;}
+    .task-header-title h3 {font-size: 15px;}
+    .task-header-title h3 span {line-height: 8px;font-size: 10px;}
+    .notification-list .btn-green {font-size: 11px;}
+    .new-tag-item {padding: 4px 6px;}
+    .tags-list .follower-dropdown.dropdown-menu-animated.dropdown-menu-end[style] {right: -45px !important;}
+}
+@media screen and (max-width: 345px) {
+    .sub-task-content .sub-width {width: auto;}
+}
+@media screen and (max-width: 321px) { 
+    .post-msg {width: 180px;}
+    .btn-gray-border {padding: 4px 5px;}
+    .btn-grays {width: 100px;}
+    .tags-items {padding: 4px 5px 4px 5px;}
+    .new-tag-item {padding: 4px 3px;}
+    .notification-list .btn-green {padding: 5px;}
+    .navbar-custom .topbar-menu .nav-link {margin: 0;}
+    .contingent-content, .edit-link {margin-left: 4px;}
+    .contingent-content div.contingent-blog > p {width: 110px;}
+    .task-tags .btn2 {margin-right: 2px;}
+    .tags-list .follower-dropdown .dropdown-item {padding: 0.25rem .5rem;}
+    .tags-list .follower-search .form-control {width: 165px;}
+    .tags-list .follower-search .search-icon {left: 15px;}
+    .new-tags {padding-left: 7px;padding-right: 7px;}
+    .tags-list .follower-dropdown.dropdown-menu-animated.dropdown-menu-end[style] {right: -20px !important;}
+    .tags-list .new-tags-items {margin-right: 4px;}
+
+}
